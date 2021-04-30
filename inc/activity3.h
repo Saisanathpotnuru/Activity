@@ -24,19 +24,19 @@
  * @brief macro for temperature condtition 2
  * 
  */
-#define TEMP_COND_2 (temp>=210)&&(temp<=500)
+#define TEMP_COND_2 (temp>=201)&&(temp<=500)
 
 /**
  * @brief macro for temperature condtition 3
  * 
  */
-#define TEMP_COND_3 (temp>=510)&&(temp<=700)
+#define TEMP_COND_3 (temp>=501)&&(temp<=700)
 
 /**
  * @brief macro for temperature condtition 4
  * 
  */
-#define TEMP_COND_4 (temp>=710)&&(temp<=1024)
+#define TEMP_COND_4 (temp>=701)&&(temp<=1024)
 
 /**
  * @brief calling function activity 3
